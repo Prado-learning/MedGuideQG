@@ -10,17 +10,17 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "grad_norm": 4.570046424865723,
+      "grad_norm": 4.00014066696167,
       "learning_rate": 0.00013333333333333334,
-      "loss": 3.2643,
+      "loss": 3.1789,
       "step": 10
     },
     {
       "epoch": 1.0,
-      "eval_loss": 0.9816600680351257,
-      "eval_runtime": 1.5761,
-      "eval_samples_per_second": 12.69,
-      "eval_steps_per_second": 6.345,
+      "eval_loss": 0.9495756030082703,
+      "eval_runtime": 1.5705,
+      "eval_samples_per_second": 12.734,
+      "eval_steps_per_second": 6.367,
       "step": 10
     }
   ],
